@@ -4,3 +4,4 @@
 *.json
 *.lst
 *.toml
+target/
